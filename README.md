@@ -2,7 +2,7 @@
 
 Cybersecurity student at Penn State (B.S. Cybersecurity Analytics and Operations, May 2027), focused on **cloud security and security engineering**.
 
-For three years I've been the cloud and automation intern at a small company, where I built and secured their AWS environment from scratch. On my own time I build tools that do real things, then work out how to make them safe.
+For three years I've been a Cloud Security Engineering Intern at a small company, where I built and secured their AWS environment from scratch. On my own time I build tools that do real things, then work out how to make them safe.
 
 **Projects**
 
