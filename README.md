@@ -6,6 +6,8 @@ For three years I've been a Cloud Security Engineering Intern at a small company
 
 **Projects**
 
+Built with AI tools. I planned each one, directed the build, and tested it.
+
 - **[Bastion](https://github.com/bradyroe/bastion)**: a fully local AI voice assistant that can open apps, read files and type, hardened so a prompt-injected model still can't do damage. Threat model, a 14-finding security review, and 40 attack tests that run on every push.
 - **[Foundry](https://github.com/bradyroe/foundry)**: a safety-first Python client for driving a Bambu Lab A1 3D printer over its encrypted LAN protocol, built by reverse-engineering what the real machine sends. 145 tests.
 
